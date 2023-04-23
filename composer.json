@@ -1,6 +1,6 @@
 {
-  "name": "ksfraser/amazon",
-  "description": "A set of classes for working within Amazon.",
+  "name": "ksfraser/google-lookup",
+  "description": "A set of classes for working with Google, mainly UPC lookup.",
   "type": "library",
   "authors": [
     {
